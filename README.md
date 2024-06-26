@@ -30,7 +30,7 @@ I need to improve my queries skills when trying to filter a dataset, but the gui
 enought to give us questions to answer, and provided solution to those problems. 
 
 ## Running the project
-You can download the *homocide.ipynb* file, and run it on either Jupyter Notebook, Visual Studio
+You can download the *crime.ipynb* file, and run it on either Jupyter Notebook, Visual Studio
 Code (require Jupyter Notebook extension), and Google Colab. 
 
 ![Alt text for image](img/crime_data_visual.png)
